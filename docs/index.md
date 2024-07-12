@@ -60,6 +60,7 @@ console.log(foo(5));
 | data | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext | extension to be used for dest files. |
+
 Right aligned columns
 | Option | Description |
 | ------:| -----------:|
@@ -72,6 +73,7 @@ Right aligned columns
 37
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+
 Footnote 1 link[^first].
 Footnote 2 link[^second].
 Inline footnote^[Text of inline footnote] definition.
