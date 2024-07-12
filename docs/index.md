@@ -8,5 +8,7 @@
 
 ほとんどの⽣物の⽬的というのは「⽣き延びること」と「⼦孫を残すこと」なんですね。ですが⼈間だけはそうではない。「ひと花咲かせよう︕」みたいなのがあって、これがすごい特異的なんですよ。本当は⽣き延びて⽣殖するために脳ができたんですけど、でもその脳が発達しすぎてしまったがために「ひと花咲かせよう︕」ができちゃうわけです。
 
+## Images
+
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
